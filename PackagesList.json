@@ -1,24 +1,6 @@
 {
     "bundles": [
         {
-            "bundleName": "Este paquete es descargable",
-            "creatorName": "juli fresita",
-            "numberOfQuestions": 10,
-            "downloadURL": "mamadas"
-        },
-        {
-            "bundleName": "Inuyasha yay UwU",
-            "creatorName": "olorACebolla",
-            "numberOfQuestions": 500,
-            "downloadURL": "asdasdasdasd"
-        },
-        {
-            "bundleName": "Chad",
-            "creatorName": "Chad",
-            "numberOfQuestions": 6849,
-            "downloadURL": "Chad"
-        },
-        {
             "bundleName": "Este paquete está en el server",
             "creatorName": "[ANON]",
             "numberOfQuestions": 20,
