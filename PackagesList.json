@@ -17,6 +17,12 @@
             "creatorName": "Chad",
             "numberOfQuestions": 6849,
             "downloadURL": "Chad"
+        },
+        {
+            "bundleName": "Este paquete está en el server",
+            "creatorName": "[ANON]",
+            "numberOfQuestions": 20,
+            "downloadURL": "https://idgg73.github.io/cesticamea-packages/Question%20Packages/paquete%20de%20prueba.json"
         }
     ]
 }
