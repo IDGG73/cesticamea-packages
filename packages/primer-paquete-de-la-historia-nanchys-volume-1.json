@@ -1,0 +1,269 @@
+{
+    "bundleName": "Primer paquete de la historia - Nanchy's volume #1",
+    "creatorName": "Nanchy's",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "¿Cuál es el primer slime que consigues?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Slime Búm",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Slime Roca",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Slime Rosa",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es el primer vegetal que puedes encontrar?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Cebolla Extraña",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Zanahoria",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Oca Oca",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Que son los Slime Gordo?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Una especie de slime",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Varios slime hechos bola que se separan al explotar",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Un slime grande que suelta objetos y slimes del mismo",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿Cuántas bóvedas de Hobson hay en todo el mapa?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "3",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "6",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Ninguna, no existen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es el único slime puro que ya no existe?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Todos existen",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Slime Sable",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Slime Pato",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es el objeto mas raro?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Jengibre Dorado",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Pogofruta",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Jalea Real",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cuantas especies de slime puros hay? (sin contar eventos)",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "35",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "20",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "16",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cúal es la fruta mas fácil de conseguir?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Cubaya",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Kookadoba",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Pogofruta",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿Existen los slime dorados?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Sí",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "No",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Se puede encontrar de forma natural un Slime gordo dorado?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "No",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Sí",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cómo se consigue un Slime gordo dorado?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Buscándolo en las bóvedas de hobson",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Poniendo un jengibre dorado en un Cepo de Gordo Maestro",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Juntando slimes dorados en un corral",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Dónde se pueden ver las anomalías solares?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Desierto de Cristal",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Arrecife Seco",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "No existen",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cómo y dónde se consiguen los slimes fuego?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Creándolos en el laboratorío con plorts búm",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "En el desierto de Cristal cuando caen de las anomalías solares",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "En el desierto de cristal regados por doquier",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Qué se encuentra en las bovedas de Hobson?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Montones de Slime dorados",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Jardínes de jengibre dorado",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Slimes Sable puros",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cómo se abren las bóvedas de Hobson?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Con un plort dorado",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Con una llave slime",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Encontrando un pasadizo secreto",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

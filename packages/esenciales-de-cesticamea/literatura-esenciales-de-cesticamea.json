@@ -1,0 +1,95 @@
+{
+    "bundleName": "Literatura [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "¿Quién escribió originalmente 'Alicia en el País de las Maravillas'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Los hermanos Grimm",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Lewis Carrol",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "John Tenniel",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "J. K. Rowling",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Quién escribió 'Los Juegos del Hambre'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Jeff Bezos",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "J. K. Rowling",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Julio Verne",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Suzanne Collins",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿En qué periodo de tiempo toma lugar 'El Niño con el Pijama de Rayas'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Segunda Guerra Mundial",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "La Peste Negra",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Primera Guerra Mundial",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "La Guerra Fría",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Quién escribió 'Vuelta al Mundo en 80 Días'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Ozuna",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "William Shakespeare",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Julio Verne",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "José Ortega y Gasset",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

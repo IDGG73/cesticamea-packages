@@ -1,0 +1,95 @@
+{
+    "bundleName": "Cine [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "De los siguientes, ¿Quién es Darth Vader?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Obi-Wan Kenobi",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Luke Skywalker",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Mi padre",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Anakin Skywalker",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿En qué año se estrenó la primera película de Shrek?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "2000",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "2001",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "2002",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "2004",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿En qué fecha falleció Stan Lee?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "4 de Junio de 2019",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "22 de Abril de 2018",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "27 de Abril de 2017",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "12 de Noviembre de 2018",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "Año de lanzamiento de Titanic",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "1997",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "1999",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "1998",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "2000",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

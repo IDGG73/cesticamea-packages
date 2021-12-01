@@ -1,0 +1,43 @@
+{
+    "bundleName": "Ciencia [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "¿Quién fue el primer hombre en pisar la luna?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Buzz Lightyear",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Neil Armstrong",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Nicolás Copérnico",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Quién descubrió que la tierra gira alrededor del sol?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Nicolás Copérnico",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Albert Einstein",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Galileo Galilei",
+                    "isCorrect": true
+                }
+            ]
+        }
+    ]
+}

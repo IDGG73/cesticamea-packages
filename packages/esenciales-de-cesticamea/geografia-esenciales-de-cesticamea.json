@@ -1,0 +1,109 @@
+{
+    "bundleName": "Geografía [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "¿Cuál es el país más grande del mundo?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Rusia",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Estados Unidos",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "China",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Chile",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Tanto el Polo Norte como el Polo Sur son continentes",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Sí",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "No",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es la capital de Rusia?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Washington",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "CDMX",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Berlín",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Moscú",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es el país más pequeño del mundo?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Australia",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Chile",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "China",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Rusia",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es la capital de España?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Hollywood",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Madrid",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Guadalajara",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Tokio",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

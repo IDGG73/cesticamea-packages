@@ -1,0 +1,73 @@
+{
+    "bundleName": "Historia [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "¿En qué fecha falleció John F. Kennedy?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "22 de Noviembre de 1963",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "23 de Noviembre de 1961",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "30 de Octubre de 1970",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "25 de Diciembre de 1965",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Fecha de fundación de la ONU (Organización de las Naciones Unidas)",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "24 de Septiembre de 1945",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "24 de Octubre de 1940",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "24 de Octubre de 1945",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "24 de Octubre de 1948",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Fecha de disolución de la Unión Soviética",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "16 de Diciembre de 1991",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "1 de Junio de 1992",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "30 de Septiembre de 1946",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "26 de Noviembre de 1991",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

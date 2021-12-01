@@ -1,0 +1,73 @@
+{
+    "bundleName": "Música [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "Según 'Billboard', ¿Cuál fue la canción más popular del 2008?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Clumsy - Fergie",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Nanana - My Chemical Romande",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "I Kissed a Girl - Katy Perry",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Low - Flo Rida",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿Cuántos integrantes hay en el grupo de K-Pop 'Seventeen'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "13",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "17",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "4",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "10",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿En qué año se separó 'The Beatles'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "1967",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "1980",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "1974",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "1975",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

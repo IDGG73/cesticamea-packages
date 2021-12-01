@@ -1,0 +1,73 @@
+{
+    "bundleName": "Animación [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "¿Cuál es la escritura correcta?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Ed, Edd & Eddy",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Edd, Ed & Eddy",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Edd, Ed and Eddy",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Ed, Edd 'n Eddy",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es el nombre saiyajin de Goku?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Son Goku",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Gohan",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Kakaroto",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Ninguna de las anteriores",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿En qué fecha se estrenó Bob Esponja?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "15 de Marzo de 1973",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "1 de Mayo de 1999",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "1 de Mayo de 2000",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "20 de Abril de 1998",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

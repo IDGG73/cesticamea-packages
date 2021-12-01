@@ -1,0 +1,51 @@
+{
+    "bundleName": "Cultura [Esenciales de Cesticamea]",
+    "creatorName": "IDGG73",
+    "downloaded": false,
+    "questions": [
+        {
+            "question": "El idioma más hablado del mundo",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Español",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Inglés",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Chino mandarín",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Francés",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "El primer zoológico inaugurado en Estados Unidos",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Yellow Stone",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Central Park",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Philadelphia",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Óregon",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
