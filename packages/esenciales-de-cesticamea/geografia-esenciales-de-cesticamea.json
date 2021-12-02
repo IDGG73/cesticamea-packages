@@ -9,7 +9,7 @@
             "answers": [
                 {
                     "answer": "Rusia",
-                    "isCorrect": false
+                    "isCorrect": true
                 },
                 {
                     "answer": "Estados Unidos",
@@ -57,7 +57,7 @@
                 },
                 {
                     "answer": "Moscú",
-                    "isCorrect": false
+                    "isCorrect": true
                 }
             ]
         },
