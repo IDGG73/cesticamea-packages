@@ -74,7 +74,7 @@
                     "isCorrect": false
                 },
                 {
-                    "answer": "China",
+                    "answer": "Ciudad del Vaticano",
                     "isCorrect": true
                 },
                 {
@@ -102,6 +102,116 @@
                 {
                     "answer": "Tokio",
                     "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cuál es el río más largo del mundo?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Río Mississippi",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Río Amazonas",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Río Bravo",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Río Nilo",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Selecciona las opciones que forman parte de la estructura de la tierra",
+            "selectionMode": 1,
+            "answers": [
+                {
+                    "answer": "Núcleo",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Exosfera",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Corteza",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Manto",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "¿Cuántos continentes hay?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "6",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "5",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "7",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "3",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿En qué continente se encuentra Nepal?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Oceanía",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Asia",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "América",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "África",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Dónde se encuentra el desierto de Gobi?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "África",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Oceanía",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "América",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Asia",
+                    "isCorrect": true
                 }
             ]
         }
