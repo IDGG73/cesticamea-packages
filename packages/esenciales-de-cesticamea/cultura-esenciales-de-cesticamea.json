@@ -4,7 +4,7 @@
     "downloaded": false,
     "questions": [
         {
-            "question": "El idioma más hablado del mundo",
+            "question": "¿Cuál es el idioma con más hablantes nativos? (2021)",
             "selectionMode": 0,
             "answers": [
                 {
@@ -16,7 +16,7 @@
                     "isCorrect": false
                 },
                 {
-                    "answer": "Chino mandarín",
+                    "answer": "Chino",
                     "isCorrect": true
                 },
                 {
@@ -26,23 +26,23 @@
             ]
         },
         {
-            "question": "El primer zoológico inaugurado en Estados Unidos",
+            "question": "De los siguientes, ¿Cuál zoológico fue inaugurado primero?",
             "selectionMode": 0,
             "answers": [
                 {
-                    "answer": "Yellow Stone",
+                    "answer": "Zoológico de Yellow Stone",
                     "isCorrect": false
                 },
                 {
-                    "answer": "Central Park",
+                    "answer": "Zoológico de Miami",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Zoológico de Philadelphia",
                     "isCorrect": true
                 },
                 {
-                    "answer": "Philadelphia",
-                    "isCorrect": false
-                },
-                {
-                    "answer": "Óregon",
+                    "answer": "Zoológico de Óregon",
                     "isCorrect": false
                 }
             ]

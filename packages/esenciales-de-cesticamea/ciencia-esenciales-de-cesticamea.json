@@ -18,6 +18,10 @@
                 {
                     "answer": "Nicolás Copérnico",
                     "isCorrect": false
+                },
+                {
+                    "answer": "Arnold Schwarzenegger",
+                    "isCorrect": false
                 }
             ]
         },
@@ -36,6 +40,76 @@
                 {
                     "answer": "Galileo Galilei",
                     "isCorrect": true
+                },
+                {
+                    "answer": "Nikola tesla",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "Son estados de la materia",
+            "selectionMode": 1,
+            "answers": [
+                {
+                    "answer": "Líquido",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Precipitado",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Plasma",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Convergente",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Cómo se le llama al cambio de estado gaseoso a líquido?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Solidificación",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Sublimación",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Condensación",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Precipitación",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "Fórmula química del agua",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "H2SO4",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "H2O",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "H2O2",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "HNO3",
+                    "isCorrect": false
                 }
             ]
         }

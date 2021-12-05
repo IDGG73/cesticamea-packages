@@ -9,13 +9,13 @@
 		{
             "bundleName": "Ciencia [Esenciales de Cesticamea]",
             "creatorName": "IDGG73",
-            "numberOfQuestions": 2,
+            "numberOfQuestions": 5,
             "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/esenciales-de-cesticamea/ciencia-esenciales-de-cesticamea.json"
         },
 		{
             "bundleName": "Cine [Esenciales de Cesticamea]",
             "creatorName": "IDGG73",
-            "numberOfQuestions": 4,
+            "numberOfQuestions": 5,
             "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/esenciales-de-cesticamea/cine-esenciales-de-cesticamea.json"
         },
 		{
@@ -27,7 +27,7 @@
 		{
             "bundleName": "Geografía [Esenciales de Cesticamea]",
             "creatorName": "IDGG73",
-            "numberOfQuestions": 5,
+            "numberOfQuestions": 10,
             "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/esenciales-de-cesticamea/geografia-esenciales-de-cesticamea.json"
         },
 		{
@@ -39,7 +39,7 @@
 		{
             "bundleName": "Literatura [Esenciales de Cesticamea]",
             "creatorName": "IDGG73",
-            "numberOfQuestions": 5,
+            "numberOfQuestions": 4,
             "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/esenciales-de-cesticamea/literatura-esenciales-de-cesticamea.json"
         },
 		{
@@ -47,12 +47,6 @@
             "creatorName": "IDGG73",
             "numberOfQuestions": 3,
             "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/esenciales-de-cesticamea/musica-esenciales-de-cesticamea.json"
-        },
-		{
-            "bundleName": "Primer paquete de la historia - Nanchy's Volume #1",
-            "creatorName": "Nanchy's",
-            "numberOfQuestions": 15,
-            "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/primer-paquete-de-la-historia-nanchys-volume-1.json"
         },
 		{
             "bundleName": "Videojuegos [Esenciales de Cesticamea]",

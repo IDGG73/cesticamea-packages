@@ -21,7 +21,7 @@
                 },
                 {
                     "answer": "Anakin Skywalker",
-                    "isCorrect": true
+                    "isCorrect": false
                 }
             ]
         },
@@ -48,29 +48,7 @@
             ]
         },
         {
-            "question": "¿En qué fecha falleció Stan Lee?",
-            "selectionMode": 0,
-            "answers": [
-                {
-                    "answer": "4 de Junio de 2019",
-                    "isCorrect": false
-                },
-                {
-                    "answer": "22 de Abril de 2018",
-                    "isCorrect": false
-                },
-                {
-                    "answer": "27 de Abril de 2017",
-                    "isCorrect": false
-                },
-                {
-                    "answer": "12 de Noviembre de 2018",
-                    "isCorrect": true
-                }
-            ]
-        },
-        {
-            "question": "Año de lanzamiento de Titanic",
+            "question": "Año de lanzamiento original de Titanic",
             "selectionMode": 0,
             "answers": [
                 {
@@ -87,6 +65,50 @@
                 },
                 {
                     "answer": "2000",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Quién dirigió las películas 'Kill Bill'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Quentin Tarantino",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Alfonso Cuarón",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Steven Spielberg",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "James Cameron",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "¿Quién interpreta a Harry Potter en 'Harry Potter y La Piedra Filosofal'?",
+            "selectionMode": 0,
+            "answers": [
+                {
+                    "answer": "Paul Rudd",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Rupert Grint",
+                    "isCorrect": false
+                },
+                {
+                    "answer": "Daniel Radcliffe",
+                    "isCorrect": true
+                },
+                {
+                    "answer": "Robin Williams",
                     "isCorrect": false
                 }
             ]
