@@ -1,0 +1,227 @@
+{
+"bundleName": "Kks test",
+"creatorName": "[ANON]",
+"downloaded": false,
+"questions": [
+{
+"question": "En qué año se estrenó The Legend of Zelda: Twilight Princess?",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "2004",
+"isCorrect": false
+},
+{
+"answer": "2006",
+"isCorrect": true
+},
+{
+"answer": "2005",
+"isCorrect": false
+},
+{
+"answer": "2002",
+"isCorrect": false
+}
+]
+},
+{
+"question": "Fue el primer juego de Nintendo en ser desarrollado por un estudio español:",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "The Legend of Zelda: Breath of The Wild",
+"isCorrect": false
+},
+{
+"answer": "Mario Kart 7",
+"isCorrect": false
+},
+{
+"answer": "Metroid: Samus Returns",
+"isCorrect": true
+},
+{
+"answer": "Super Mario Party",
+"isCorrect": false
+}
+]
+},
+{
+"question": "Qué juego de la saga The Legend of Zelda fue hecho para su 25° aniversario?",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "Twilight Princess",
+"isCorrect": false
+},
+{
+"answer": "Breath of the Wild",
+"isCorrect": false
+},
+{
+"answer": "The Wind Waker HD",
+"isCorrect": false
+},
+{
+"answer": "Skyward Sword",
+"isCorrect": true
+}
+]
+},
+{
+"question": "Fue el primer Halo en no inlcuir a Master Chief como personaje jugable:",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "Halo 3:ODST",
+"isCorrect": true
+},
+{
+"answer": "Halo 4",
+"isCorrect": false
+},
+{
+"answer": "Halo: Reach",
+"isCorrect": false
+},
+{
+"answer": "Halo 5: Guardians",
+"isCorrect": false
+}
+]
+},
+{
+"question": "Es el equipo de desarrollo que Microsoft creó especificamente para Gears of War:",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "Bungie",
+"isCorrect": false
+},
+{
+"answer": "343 industries",
+"isCorrect": false
+},
+{
+"answer": "Turn 10 studios",
+"isCorrect": false
+},
+{
+"answer": "The Coallition",
+"isCorrect": true
+}
+]
+},
+{
+"question": "Qué juego tenía una imagen de un coco que al borrarse, éste dejaba de funcionar?",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "Team Fortress",
+"isCorrect": true
+},
+{
+"answer": "Halo: Combat Evolved",
+"isCorrect": false
+},
+{
+"answer": "Half Life 2",
+"isCorrect": false
+},
+{
+"answer": "Portal",
+"isCorrect": false
+}
+]
+},
+{
+"question": "Es considerado el juego con mayor cantidad de bugs (sin ser reparados con actualizaciones):",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "Halo: the Master Chief Collection",
+"isCorrect": false
+},
+{
+"answer": "Sonic the Hedgehog (2006)",
+"isCorrect": true
+},
+{
+"answer": "Super Mario 3-D All Stars",
+"isCorrect": false
+},
+{
+"answer": "Psychonauts",
+"isCorrect": false
+}
+]
+},
+{
+"question": "En qué fecha fue estrenado Portal?",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "29 de Agosto del año 2006",
+"isCorrect": false
+},
+{
+"answer": "15 de Febrero del año 2009",
+"isCorrect": false
+},
+{
+"answer": "28 de Noviembre del año 2005",
+"isCorrect": false
+},
+{
+"answer": "10 de Octubre del año 2007",
+"isCorrect": true
+}
+]
+},
+{
+"question": "Fue el primer juego de Nnintendo en ser lanzado para celular:",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "Super Mario Run",
+"isCorrect": false
+},
+{
+"answer": "Miitomo",
+"isCorrect": true
+},
+{
+"answer": "Animal Crossing: Pocket Camp",
+"isCorrect": false
+},
+{
+"answer": "Pokemon Go!",
+"isCorrect": false
+}
+]
+},
+{
+"question": "Es considerada una de las consolas con peores ventas de la historia:",
+"selectionMode": 1,
+"answers": [
+{
+"answer": "Phillips CD-i",
+"isCorrect": true
+},
+{
+"answer": "Nintendo NES",
+"isCorrect": false
+},
+{
+"answer": "Sega Dreamcast",
+"isCorrect": false
+},
+{
+"answer": "Xbox (clásico)",
+"isCorrect": false
+}
+]
+}
+]
+}
