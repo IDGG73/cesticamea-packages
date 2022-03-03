@@ -55,10 +55,10 @@
             "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/esenciales-de-cesticamea/videojuegos-esenciales-de-cesticamea.json"
         },
 	    {
-            "bundleName": "Kks Videogame Test",
+            "bundleName": "Videogame Test",
             "creatorName": "[ANON]",
             "numberOfQuestions": 10,
-            "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/kks-videogame-test.json"
+            "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/videogame-test.json"
         }
     ]
 }
