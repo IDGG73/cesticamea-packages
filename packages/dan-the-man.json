@@ -1,0 +1,102 @@
+{
+"bundleName": "Dan the Man ",
+"creatorName": "Nanchy's",
+"downloaded": false,
+"questions": [
+{
+"question": "¿Cuántos años tiene desde que Dan the man salió?",
+"selectionMode": 0,
+"answers": [
+{
+"answer": "5 años",
+"isCorrect": true
+},
+{
+"answer": "2 años",
+"isCorrect": false
+},
+{
+"answer": "7 años",
+"isCorrect": false
+}
+],
+"incorrectMessage": ""
+},
+{
+"question": "¿En que año fue lanzado Dan the man?",
+"selectionMode": 0,
+"answers": [
+{
+"answer": "2013",
+"isCorrect": false
+},
+{
+"answer": "2015",
+"isCorrect": true
+},
+{
+"answer": "2020",
+"isCorrect": false
+}
+],
+"incorrectMessage": ""
+},
+{
+"question": "¿Cómo se llama el estudio que creo Dan the man?",
+"selectionMode": 0,
+"answers": [
+{
+"answer": "Riot games",
+"isCorrect": false
+},
+{
+"answer": "Nintendo",
+"isCorrect": false
+},
+{
+"answer": "Studiojoho",
+"isCorrect": true
+}
+],
+"incorrectMessage": ""
+},
+{
+"question": "¿Cuáles fueron los primeros inicios de Dan the man?",
+"selectionMode": 0,
+"answers": [
+{
+"answer": "Empezó como una serie animada",
+"isCorrect": true
+},
+{
+"answer": "Era un cómic",
+"isCorrect": false
+},
+{
+"answer": "Desde el principio fue un juego",
+"isCorrect": false
+}
+],
+"incorrectMessage": ""
+},
+{
+"question": "¿Cuál es el nombre del otro personaje jugable? ",
+"selectionMode": 0,
+"answers": [
+{
+"answer": "Josie",
+"isCorrect": true
+},
+{
+"answer": "Angela",
+"isCorrect": false
+},
+{
+"answer": "John",
+"isCorrect": false
+}
+],
+"incorrectMessage": ""
+}
+]
+}
