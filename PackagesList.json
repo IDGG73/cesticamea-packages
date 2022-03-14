@@ -59,6 +59,12 @@
             "creatorName": "[ANON]",
             "numberOfQuestions": 10,
             "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/videogame-test.json"
+        },
+	    {
+            "bundleName": "Dan the Man",
+            "creatorName": "Nanchy's",
+            "numberOfQuestions": 5,
+            "downloadURL": "https://idgg73.github.io/cesticamea-packages/packages/dan-the-man.json"
         }
     ]
 }
